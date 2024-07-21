@@ -1,6 +1,7 @@
 // Pętla for...in
 
-// Przejdź przez obiekt apartment używając pętli for...in i zapisz wszystkie jego klucze do tablicy keys, a wszystkie wartości jego właściwości do tablicy values.
+// Przejdź przez obiekt apartment używając pętli for...in i zapisz wszystkie jego klucze do tablicy keys, 
+// a wszystkie wartości jego właściwości do tablicy values.
 
 // Zadeklarowano zmienną apartment
 // Wartością zmiennej apartment jest obiekt
